@@ -76,7 +76,7 @@
 >>> portal_obj = Portal.objects.get(pk=2)
 >>> portal_obj
 <Portal: 2 portal - linkedin.com>
->>> portal_obj.delete()
+>>> portal_obj.delete() 
 (1, {'jobs.Portal': 1})
 ```
 - What is shortcut to get a record from certain DB table using Django-ORM using primary key (when primary key column name is not known)?

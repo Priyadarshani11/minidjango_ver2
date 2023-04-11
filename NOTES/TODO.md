@@ -1,4 +1,4 @@
-### STEPS
+[### STEPS
 1. clone the project from github
 `git clone https://github.com/prashant5nov/minidjango_ver1.git`
 2. `python manage.py makemigrations`
@@ -17,4 +17,4 @@
 15. play with your newly created model in django shell (`python manage.py shell`)
 
 16. Play with django admin interface and add multiple portals, jobtitles, jobdescriptions, applicants
-17. Play with django shell `python manage.py shell` and try out all ORM queries
+17. Play with django shell `python manage.py shell` and try out all ORM queries]()

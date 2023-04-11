@@ -8,6 +8,7 @@ def welcome(request):
 
     cricketers = ["virat", "dhoni", "rahul", "sachin"]
 
+
     return render(
         request,
         "jobs/welcome.html",
